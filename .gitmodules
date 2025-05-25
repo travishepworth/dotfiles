@@ -7,3 +7,6 @@
 [submodule "hypr"]
 	path = hypr
 	url = git@github.com:travishepworth/hypr
+[submodule "fastfetch"]
+	path = fastfetch
+	url = git@github.com:travishepworth/fastfetch.git
