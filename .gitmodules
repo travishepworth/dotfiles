@@ -1,0 +1,9 @@
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:travishepworth/nvim
+[submodule "ags"]
+	path = ags
+	url = git@github.com:travishepworth/agsv2
+[submodule "hypr"]
+	path = hypr
+	url = git@github.com:travishepworth/hypr
