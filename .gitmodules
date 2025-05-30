@@ -10,3 +10,6 @@
 [submodule "fastfetch"]
 	path = fastfetch
 	url = git@github.com:travishepworth/fastfetch.git
+[submodule "zsh"]
+	path = zsh
+	url = git@github.com:travishepworth/zsh.git
