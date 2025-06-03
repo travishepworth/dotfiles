@@ -54,3 +54,16 @@ Use the script to symlink configs into `~/.config`:
 ```
 
 ---
+
+## 󰒼 Updating Submodules
+
+To update all submodules to their latest commits, run:
+
+```bash
+git submodule update --remote --merge
+```
+
+This will fetch the latest changes from each submodule's remote repository.
+If the dots are linked then that is all you need to do for an update.
+
+---
